@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Wildfly",
+			"type": "shell",
+			"command": "standalone.bat",
+			"args": [],
+			"options": {
+				"cwd": "/Users/ESTUDIANTE/Downloads/wildfly-34.0.1.Final/wildfly-34.0.1.Final/bin"
+			},
+			"problemMatcher": [],			
+			"detail": "Iniciar el servidor de wildlfy"
+		}
+	]
+}
